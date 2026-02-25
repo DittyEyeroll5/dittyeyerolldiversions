@@ -1,9 +1,10 @@
-# Clinical Workflow Inventory
 ## Philippine Tertiary Ophthalmology Department (OpenEyes Context)
 
-**Scope**: Tertiary eye care facility with outpatient majority, diagnostic/laser center, 4-bed inpatient ward, and remote satellite clinic.
+### **Scope**: 
+Tertiary eye care facility with outpatient majority, diagnostic/laser center, 4-bed inpatient ward, and remote satellite clinic.
 
-**Methodology**: Workflows defined by clinical intent, separate from UI implementation. Data objects mapped to OpenEyes event-based architecture.
+### **Methodology**: 
+Workflows defined by clinical intent, separate from UI implementation. Data objects mapped to OpenEyes event-based architecture.
 
 ---
 
